@@ -1,1 +1,1 @@
-# ONYX-Grant-Finder
+# onyx-grant-finder
